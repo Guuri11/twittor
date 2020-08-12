@@ -1,5 +1,6 @@
 
 const url = window.location.href;
+console.log(url)
 let swLocation = '/twittor/sw.js';
 
 // Registrar sw
